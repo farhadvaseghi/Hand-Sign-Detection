@@ -23,3 +23,8 @@ In this project instead of write a python file to create our model and train the
 After training our data with the model and save the weights, we are ready to go for prediction phase. By using the the prediction.py file we could test our model by using webcam.
 
 ## Demo
+<p align="center">
+<kbd>
+   https://user-images.githubusercontent.com/54831801/189455733-2c65d455-8066-4a02-a837-50ceeba167e3.mp4
+</kbd>
+</p>
