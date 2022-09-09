@@ -2,7 +2,7 @@
 # Hand Sign Detection(ASL)
 <p align="center">
 <kbd>
-   <img align="center" src="https://github.com/TomRSavage/ParticleSwarm/blob/master/Sty.gif" width="700" height="500">
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189453434-fbef14f5-9d70-4089-9035-274b6bf66462.png" width="700" height="500">
 </kbd>
 </p>
 
