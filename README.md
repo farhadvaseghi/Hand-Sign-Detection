@@ -13,6 +13,7 @@ For collecting data we use data_collection.py and for training the model we use 
 
 ## Data Collector
 In order to collect data for each specific sign we have to create a directory in data folder with the name of that sign and then in the data_collection.py, line 13 we refer to that folder and then run the file and after that, by pressing 's' button we are going to collect data by using webcam.
+For this project we only collected data for 3 signs of 'A', 'B' and 'C'.
 
 ## Train The Model
 In this project instead of write a python file to create our model and train the data with it, we used an online platform called "Teachable Machine". The link of this website is as follows:
