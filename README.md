@@ -24,8 +24,4 @@ After training our data with the model and save the weights, we are ready to go 
 
 ## Demo
  https://user-images.githubusercontent.com/54831801/189458416-7f228024-cde5-443d-b0e8-d5879eb64547.mp4
-<p align="center">
-<kbd>
-   https://user-images.githubusercontent.com/54831801/189458416-7f228024-cde5-443d-b0e8-d5879eb64547.mp4
-</kbd>
-</p>
+
